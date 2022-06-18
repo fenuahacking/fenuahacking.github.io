@@ -22,7 +22,7 @@ L'acquisition de ses savoir-faire permettra de mieux se protéger contre les cyb
 
 A cette occasion vous apprendrez les bases de la sécurité offensive  au travers ateliers pratiques avec notre expert polynésien Keanu, évoluant aux USA depuis plus de 10 ans.   
 
-David gérant de Tavita Cybersecurity  animera des tables rondes, d'échanges autour de la cybersécurité. Vous pourrez échanger sur vos problématiques ou tout simplement vous informer.  
+David gérant de [Tavita Cybersecurity](https://www.facebook.com/TCS987) animera des tables rondes, d'échanges autour de la cybersécurité. Vous pourrez échanger sur vos problématiques ou tout simplement vous informer.  
 
 -   **Date** : le 29/06/22 
 -   **Lieu de l'évènement**  : [Polynesian  Factory](https://www.facebook.com/polynesianfactory/)  
@@ -46,8 +46,6 @@ Attention nous n'aurons pas le temps de le faire le jour du stage   
 -   **Option 1** : Installer Kali Linux, le système d'exploitation dedié  au hacking  
 -   [Kali Linux](https://www.youtube.com/watch?v=VHFjVQgCqOg) 
 -   **Option 2** : Installer [nmap](https://nmap.org/)  (pour les néophytes)    
-
-
 
 Pour vous aider dans la préparation de nombreux tutoriels vidéo existent sur Youtube. 
 
