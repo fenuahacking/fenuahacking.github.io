@@ -4,11 +4,11 @@ layout: default
 
 Iaorana les hackers!  
 
-MaohiTech et Tavita Cybersecurity vous invitent au premier évènement consacré aux techniques de Hacking et à la sécurité informatique en Polynésie française intitulé « Fenua Hacking 2022 ». 
+MaohiTech et [Tavita Cybersecurity](https://www.facebook.com/TCS987) vous invitent au premier évènement consacré aux techniques de Hacking et à la sécurité informatique en Polynésie française intitulé « Fenua Hacking 2022 ». 
 
 Un évènement exceptionnel à ne pas rater.  
 
-Pour cette première édition, Tavita Cybersecurity s'associe à MaohiTech pour vous proposer un stage de hacking entièrement gratuit.  
+Pour cette première édition, [Tavita Cybersecurity](https://www.facebook.com/TCS987) s'associe à MaohiTech pour vous proposer un stage de hacking entièrement gratuit.  
 
 Contrairement aux idées reçues, hacking n'est pas synomyme de malveillance. Dès la naissance du mouvement et jusqu'à aujourd'hui, il existe une véritable éthique du hacking. Le premier impératif qui préside à cet esprit, c'est l'aspect « bidouille » et « Do it  yourself ». Pour maîtriser vraiment un système, il faut savoir comment il fonctionne et donc ne pas hésiter à l'observer, à l'éprouver, l'attaquer, à l'améliorer, et le renforcer... Et surtout partager les résultats de ses observations. 
 
@@ -24,11 +24,11 @@ A cette occasion vous apprendrez les bases de la sécurité offensive  au traver
 
 David gérant de Tavita Cybersecurity  animera des tables rondes, d'échanges autour de la cybersécurité. Vous pourrez échanger sur vos problématiques ou tout simplement vous informer.  
 
-**Date** : le 29/06/22 
-**Lieu de l'évènement**  : [Polynesian  Factory](https://www.facebook.com/polynesianfactory/)  
-**Horaires** : 8h30 - 19h00  
-**Matériel** : Un ordinateur portable personnel (aucun ordinateur ne sera fourni)    
-**Internet** :  Une connexion Wifi sera mise à disposition  
+-   **Date** : le 29/06/22 
+-   **Lieu de l'évènement**  : [Polynesian  Factory](https://www.facebook.com/polynesianfactory/)  
+-   **Horaires** : 8h30 - 19h00  
+-   **Matériel** : Un ordinateur portable personnel (aucun ordinateur ne sera fourni)    
+-   **Internet** :  Une connexion Wifi sera mise à disposition  
 
 Prérequis pour le stage à préparer chez vous avant de venir :   
 
@@ -53,19 +53,19 @@ Pour vous aider dans la préparation de nombreux tutoriels vidéo existent sur Y
 
 Programme du 28/06/22 pour les participants de stage de Hacking  :
 
-**8h30 -- 9h00** : Accueil des participants + Théorie sur les techniques de reconnaissance  
-**9h00 -- 9h30** : Notions « Connect  shell » et « Reverse shell »  
-**9h30 -- 10h00** : Techniques d'accès initial  
-**10h30 -- 11h00** : Techniques d'accès initial  
-**11h00 - 11h30** : Techniques d'escalade de privilèges Linux  
-**11h30 -- 12h00** : Techniques d'escalade de privilèges Windows  
-**12h00 -- 13h00** : Repas  
-**13h00 -- 17h00** : Concours de Hacking  
-**17h00 -- 18h00** : Remise de prix  
+-   **8h30 -- 9h00** : Accueil des participants + Théorie sur les techniques de reconnaissance  
+-   **9h00 -- 9h30** : Notions « Connect  shell » et « Reverse shell »  
+-   **9h30 -- 10h00** : Techniques d'accès initial  
+-   **10h30 -- 11h00** : Techniques d'accès initial  
+-   **11h00 - 11h30** : Techniques d'escalade de privilèges Linux  
+-   **11h30 -- 12h00** : Techniques d'escalade de privilèges Windows  
+-   **12h00 -- 13h00** : Repas  
+-   **13h00 -- 17h00** : Concours de Hacking  
+-   **17h00 -- 18h00** : Remise de prix  
 
 En Bonus : Recherche de 0-days (si nous avons le temps)  
 
-Pour ceux qui souhaitent juste s'informer, durant les deux jours, Tavita Cybersecurity vous proposera en parallèle des tables rondes autour de la cybersécurité autour des thèmes suivants : 
+Pour ceux qui souhaitent juste s'informer, durant les deux jours, [Tavita Cybersecurity](https://www.facebook.com/TCS987) vous proposera en parallèle des tables rondes autour de la cybersécurité autour des thèmes suivants : 
 
 -   Objets connectés 
 -   Que faire en cas de cyberattaque ? 
