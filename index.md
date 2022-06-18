@@ -24,94 +24,63 @@ A cette occasion vous apprendrez les bases de la sécurité offensive  au traver
 
 David gérant de Tavita Cybersecurity  animera des tables rondes, d'échanges autour de la cybersécurité. Vous pourrez échanger sur vos problématiques ou tout simplement vous informer.  
 
-Date : le 29/06/22 
-
-Lieu de l'évènement  : Polynesian  Factory  (<https://www.facebook.com/polynesianfactory/>)  
-
-Horaires : 8h30 - 18h00  
-
-Matériel : Un ordinateur portable personnel (aucun ordinateur ne sera fourni)    
-
-Internet :  Une connexion Wifi sera mise à disposition  
+**Date** : le 29/06/22 
+**Lieu de l'évènement**  : [Polynesian  Factory](https://www.facebook.com/polynesianfactory/)  
+**Horaires** : 8h30 - 19h00  
+**Matériel** : Un ordinateur portable personnel (aucun ordinateur ne sera fourni)    
+**Internet** :  Une connexion Wifi sera mise à disposition  
 
 Prérequis pour le stage à préparer chez vous avant de venir :   
 
 Attention nous n'aurons pas le temps de le faire le jour du stage   
 
--   Etape 1 : Installation d'une solution de virtualisation pour workstation:  
+**Etape 1** : Installation d'une solution de virtualisation pour workstation: 
 
--   Virtual Box (gratuit) : <https://www.virtualbox.org/>  
+-   [Virtual Box (gratuit)](https://www.virtualbox.org/)
+-   [VMware Workstation Player (gratuite)](https://www.vmware.com/fr/products/workstation-player.html)
+-   [VMware Workstation Pro (Payante)](https://www.vmware.com/fr/products/workstation-pro/workstation-pro-evaluation.html)
 
--   VMware Workstation Player (gratuite) : <https://www.vmware.com/fr/products/workstation-player.html>  
 
--   VMware Workstation Pro (Payante) : <https://www.vmware.com/fr/products/workstation-pro/workstation-pro-evaluation.html>  
+**Etape 2** : Installation d'une machine virtuelle avec les outils :
 
--   Etape 2 : Installation d'une machine virtuelle avec les outils : 
+-   **Option 1** : Installer Kali Linux, le système d'exploitation dedié  au hacking  
+-   [Kali Linux](https://www.youtube.com/watch?v=VHFjVQgCqOg) 
+-   **Option 2** : Installer [nmap](https://nmap.org/)  (pour les néophytes)    
 
--   Option 1 : Installer Kali Linux, le système d'exploitation dedié  au hacking  
 
-Kali Linux : https://www.youtube.com/watch?v=VHFjVQgCqOg  
-
--   Option 2 : Installer nmap  (pour les néophytes)    
-
-Nmap :  <https://nmap.org/>  
 
 Pour vous aider dans la préparation de nombreux tutoriels vidéo existent sur Youtube. 
 
-Pour vous échauffer avant l'évènement vous pouvez consulter les liens suivants : 
+Programme du 28/06/22 pour les participants de stage de Hacking  :
 
-Programme du 28/06/22 pour les participants de stage de Hacking  
-
-8h30 -- 9h00 : Accueil des participants + Théorie sur les techniques de reconnaissance  
-
-9h00 -- 9h30 : Notions « Connect  shell » et « Reverse shell »  
-
-9h30 -- 10h00 : Techniques d'accès initial  
-
-10h30 -- 11h00 : Techniques d'accès initial  
-
-11h00 - 11h30 : Techniques d'escalade de privilèges Linux  
-
-11h30 -- 12h00 : Techniques d'escalade de privilèges Windows  
-
-12h00 -- 13h00 : Repas  
-
-13h00 -- 17h00 : Concours de Hacking  
-
-17h00 -- 18h00 : Remise de prix  
+**8h30 -- 9h00** : Accueil des participants + Théorie sur les techniques de reconnaissance  
+**9h00 -- 9h30** : Notions « Connect  shell » et « Reverse shell »  
+**9h30 -- 10h00** : Techniques d'accès initial  
+**10h30 -- 11h00** : Techniques d'accès initial  
+**11h00 - 11h30** : Techniques d'escalade de privilèges Linux  
+**11h30 -- 12h00** : Techniques d'escalade de privilèges Windows  
+**12h00 -- 13h00** : Repas  
+**13h00 -- 17h00** : Concours de Hacking  
+**17h00 -- 18h00** : Remise de prix  
 
 En Bonus : Recherche de 0-days (si nous avons le temps)  
 
 Pour ceux qui souhaitent juste s'informer, durant les deux jours, Tavita Cybersecurity vous proposera en parallèle des tables rondes autour de la cybersécurité autour des thèmes suivants : 
 
 -   Objets connectés 
-
 -   Que faire en cas de cyberattaque ? 
-
 -   Sécurité lors des déplacements professionnels 
-
 -   Gestion sécurisée des emails professionnels 
-
 -   Sécurité Active Directory 
-
 -   Sécurité des données 
-
 -   Retour d'expérience sur une cyberattaque 
-
 -   Bonnes pratiques d'hygiène informatique 
-
 -   Panorama du cybercrime 
-
 -   Gestion de la cybersécurité au sein de l'entreprise 
-
 -   Les problématiques d'infrastructures techniques sécurisées. 
-
 -   Sensibilisation 
-
 -   Formations 
-
 -   Audit de sécurité / Test d'intrusion 
-
 -   La sécurité Cloud 
 
 Si vous avez des thèmes que vous souhaitez aborder n'hésitez pas à nous le faire savoir par mail ou par message privé sur le Messenger de la page 
@@ -119,17 +88,13 @@ Si vous avez des thèmes que vous souhaitez aborder n'hésitez pas à nous le fa
 Cette journée est ENTIÈREMENT GRATUITE et les places sont limitées d'où la nécessité de vous inscrire soit : 
 
 -   Par mail sur <contact@fenuahacking.com>  
-
 -   Par MP sur la page de l'évènement 
 
 Vous y mentionnerez : 
 
 -   Votre nom et prénom 
-
 -   Particulier / Entreprise (nom de l'entreprise) 
-
 -   Email  
-
 -   Numéro de téléphone 
 
 Un point de restauration payante (roulotte) sera stationné dans le parking afin de se sustenter tout au long de la journée. Pas de CB, munissez d'argent en espèce.  
