@@ -51,9 +51,9 @@ Pour vous aider dans la préparation de nombreux tutoriels vidéo existent sur Y
 
 Programme du 28/06/22 pour les participants de stage de Hacking  :
 
--   **8h30 -- 9h00** : Accueil des participants + Théorie sur les techniques de reconnaissance  
--   **9h00 -- 9h30** : Notions « Connect  shell » et « Reverse shell »  
--   **9h30 -- 10h00** : Techniques d'accès initial  
+-   **8h30 -- 9h00** : Accueil des participants  
+-   **9h00 -- 9h30** : Théorie sur les techniques de reconnaissance 
+-   **9h30 -- 10h00** : Notions « Connect  shell » et « Reverse shell » 
 -   **10h30 -- 11h00** : Techniques d'accès initial  
 -   **11h00 - 11h30** : Techniques d'escalade de privilèges Linux  
 -   **11h30 -- 12h00** : Techniques d'escalade de privilèges Windows  
