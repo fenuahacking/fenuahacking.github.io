@@ -2,7 +2,8 @@
 layout: default
 ---
 
-![Annonce](assets/images/FenuaHacking(2).png)
+![Banner](assets/images/My project(6).png)
+![Annonce](assets/images/FenuaHacking2.png)
 
 Iaorana les hackers!  
 
@@ -59,7 +60,7 @@ Programme du 28/06/22 pour les participants de stage de Hacking  :
 -   **10h30 -- 11h00** : Techniques d'accès initial  
 -   **11h00 - 11h30** : Techniques d'escalade de privilèges Linux  
 -   **11h30 -- 12h00** : Techniques d'escalade de privilèges Windows  
--   **12h00 -- 13h00** : Repas  
+-   **12h00 -- 13h00** : Pause Déjeuner
 -   **13h00 -- 17h00** : Concours de Hacking  
 -   **17h00 -- 18h00** : Remise de prix  
 
