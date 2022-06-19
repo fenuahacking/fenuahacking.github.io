@@ -108,3 +108,5 @@ Pou résumer notre démarche, je mentionnerais une citation de Tsun Tzu "L'art d
 « Qui connaît l'autre et se connaît lui-même peut livrer cent batailles sans jamais être en péril. Qui ne connaît pas l'autre, mais se connaît lui-même, pour chaque victoire, connaîtra une défaite. Qui ne connaît ni l'autre ni lui-même perdra inéluctablement toutes les batailles » 
 
 "知彼知己者，百战不殆；不知彼而知己，一胜一负，不知彼，不知己，每战必殆"
+
+Mauruuru [Kahe's Creations](https://www.facebook.com/Kahes-Creation-111432064899232) pour le logo!
