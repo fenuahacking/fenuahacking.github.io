@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Annonce](assets/images/FenuaHacking(2).png)
+
 Iaorana les hackers!  
 
 MaohiTech et [Tavita Cybersecurity](https://www.facebook.com/TCS987) vous invitent au premier évènement consacré aux techniques de Hacking et à la sécurité informatique en Polynésie française intitulé « Fenua Hacking 2022 ». 
