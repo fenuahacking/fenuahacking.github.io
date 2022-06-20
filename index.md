@@ -52,7 +52,7 @@ Attention nous n'aurons pas le temps de le faire le jour du stage   
 
 Pour vous aider dans la préparation de nombreux tutoriels vidéo existent sur Youtube. 
 
-Programme du 28/06/22 pour les participants de stage de Hacking  :
+Programme du 29/06/22 pour les participants de stage de Hacking  :
 
 -   **8h30 -- 9h00** : Accueil des participants  
 -   **9h00 -- 9h30** : Théorie sur les techniques de reconnaissance 
