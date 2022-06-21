@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![Banner](assets/images/My project(6).png)
-![Annonce](assets/images/FenuaHacking2.png)
+![Annonce](assets/images/FenuaHacking2(1).png)
 
 Iaorana les hackers!  
 
